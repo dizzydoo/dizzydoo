@@ -11,10 +11,13 @@
 ----
 
 
-## 👀👇 peep my stats below if you're curious, or just check my contributions!
-
-[![dizzydoo's github stats](https://github-readme-stats.vercel.app/api?username=dizzydoo&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+### 👀👇 peep my stats below if you're curious, or just check my contributions!
+ 
+<p align="center>
+          <a href="https://github.com/anuraghazra/github-readme-stats">
+            <img src="https://github-readme-stats.vercel.app/api?username=dizzydoo&theme=tokyonight&count_private=true">
+          </a>
+</p>
 <!--
 **dizzydoo/dizzydoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
